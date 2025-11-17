@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '21465784658480338a1ee7629fc864a9',
+  rootNotionPageId: '2ae65784658481c5b015e54ae87f5fdf',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '大眼睛憨憨',
-  domain: 'https://selective-zenith-bce.notion.site/21465784658480338a1ee7629fc864a9?v=214657846584816d920f000c6dfa4fa0',
+  domain: 'https://selective-zenith-bce.notion.site/Next-js-Notion-Starter-Kit-Template-2ae65784658481c5b015e54ae87f5fdf',
   author: 'hanhan',
 
   // open graph metadata (optional)
